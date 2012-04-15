@@ -16,3 +16,7 @@ open a browser and navigate to localhost:8888
 
 3) run an OSC sender, i provide a simple test:
 $>python simple_test.py
+
+If these powers combine, you'll see the values streamed to your browser window.
+
+The communication is bidirectional.  This technique can be used for all sorts of cool projects, with a minor modification you can even stream video/audio with just javascript on the front-end.
