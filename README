@@ -3,3 +3,5 @@ This is an example of catching OSC messages in a thread, adding them to a Queue 
 Here is a 14 second demo video:
 
 http://www.flickr.com/photos/lateplate/7076516411/in/photostream
+
+Capable of being run in production as is, but would recommend running behind NGINX.
