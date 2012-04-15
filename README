@@ -5,3 +5,14 @@ Here is a 14 second demo video:
 http://www.flickr.com/photos/lateplate/7076516411/in/photostream
 
 Capable of being run in production as is, but would recommend running behind NGINX.
+
+To use:
+
+1) run the server:
+$>python main.py
+
+2) load the page to create a websocket connection to the server
+open a browser and navigate to localhost:8888
+
+3) run an OSC sender, i provide a simple test:
+$>python simple_test.py
