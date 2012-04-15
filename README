@@ -1,0 +1,5 @@
+This is an example of catching OSC messages in a thread, adding them to a Queue and streaming them via WebSockets with Python using the Tornado framework.
+
+Here is a 14 second demo video:
+
+http://www.flickr.com/photos/lateplate/7076516411/in/photostream
